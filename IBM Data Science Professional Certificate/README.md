@@ -1,4 +1,4 @@
-# IBM: Data Science Methodology
+# IBM Data Science Professional Certificate:
 
 <img src="https://i.imgur.com/YCFnjvg.png" alt="Smiley face" height="300" width="600">
 
