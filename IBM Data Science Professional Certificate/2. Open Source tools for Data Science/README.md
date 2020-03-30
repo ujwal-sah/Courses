@@ -11,19 +11,19 @@ What are some of the most popular data science tools, how do you use them, and w
 
 ## Topics include
 
-Introducing Cognitive Class Labs
+###Introducing Cognitive Class Labs
 This week, you will get an overview of the various data science tools available to you, hosted on Cognitive Class Labs. You will create an account and start exploring some of the features.
 
-Jupyter Notebooks
+###Jupyter Notebooks
 This week, you will learn about a popular data science tool, Jupyter Notebooks, its features, and why they are so popular among data scientists today.
 
-Apache Zeppelin Notebooks
+###Apache Zeppelin Notebooks
 This week, you will learn about Apache Zeppelin Notebooks, its feature, and how they are different from Jupyter Notebooks.
 
-RStudio IDE
+###RStudio IDE
 This week, you will learn about a popular data science tool used by R programmers. You'll learn about the user interface and how to use its various features.
 
-IBM Data Science Experience
+###IBM Data Science Experience
 This week, you will learn about an enterprise-ready data science platform by IBM, called Data Science Experience. You'll learn about some of the features and capabilities of what data scientists use in the industry.
 
 
