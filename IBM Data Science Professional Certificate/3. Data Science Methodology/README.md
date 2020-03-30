@@ -42,5 +42,6 @@ Accordingly, in this course, you will learn:
 - Quiz: From Deployment to Feedback
 - Peer-review Assignment
 
-This course is part of the 'IBM Data Science Professional Certificate'
+This course is part of the 'IBM Data Science Professional Certificate' 
+
 ![IBM](https://i.imgur.com/j6yW3WS.png)

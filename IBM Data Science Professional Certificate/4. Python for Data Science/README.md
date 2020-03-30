@@ -18,5 +18,6 @@ Data Analysis libraries: will learn to use Pandas, Numpy and Scipy libraries to 
 -	Loading data with Pandas
 -	Numpy 
 
-This course is part of the 'IBM Data Science Professional Certificate'
+This course is part of the 'IBM Data Science Professional Certificate' 
+
 ![IBM](https://i.imgur.com/j6yW3WS.png)
