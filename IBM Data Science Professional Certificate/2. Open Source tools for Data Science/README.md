@@ -32,5 +32,6 @@ This week, you will learn about a popular data science tool used by R programmer
 This week, you will learn about an enterprise-ready data science platform by IBM, called Data Science Experience. You'll learn about some of the features and capabilities of what data scientists use in the industry.
 
 
-This course is part of the 'IBM Data Science Professional Certificate'
+This course is part of the 'IBM Data Science Professional Certificate' 
+
 ![IBM](https://i.imgur.com/j6yW3WS.png)
